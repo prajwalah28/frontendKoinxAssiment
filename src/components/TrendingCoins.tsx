@@ -95,6 +95,7 @@ function Coin({ symbol, name, img, changePercentage }: CoinProps) {
           {changePercentage}%
         </span>
       </div>
+      <p>created by PrajwalHelunde for KoinXAssiment</p>
     </div>
   );
 }
