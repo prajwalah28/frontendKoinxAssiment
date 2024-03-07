@@ -4,7 +4,7 @@ function PerformanceSection() {
   return (
     <div className="bg-white mt-5 rounded-lg p-6 h-max">
       <div>
-        <div className="text-2xl font-semibold text-[#0F1629]">Prajwal</div>
+        <div className="text-2xl font-semibold text-[#0F1629]">Performance</div>
         <div className="py-4 mt-2">
           <div className="flex justify-between ">
             <div className="text-start">
