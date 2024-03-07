@@ -10,7 +10,7 @@ import TrendingCoins from "../components/TrendingCoins"
 import Team from "../components/TeamCard"
 import SuggestionSection from "../components/SuggestionSection"
 
-
+// Created by Prajwal helunde
 function CoinPage() {
   return (
     <div className="h-full w-full bg-slate-200/40">

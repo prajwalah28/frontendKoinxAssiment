@@ -6,6 +6,7 @@ function App() {
     <div>
        <Navbar/>
        <CoinPage/>
+       <p>Created by prajwalhelunde</p>
     </div>
   )
 }
